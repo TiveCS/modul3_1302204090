@@ -1,0 +1,16 @@
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\bin\Debug\net5.0\modul3_1302204090.exe
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\bin\Debug\net5.0\modul3_1302204090.deps.json
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\bin\Debug\net5.0\modul3_1302204090.runtimeconfig.json
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\bin\Debug\net5.0\modul3_1302204090.runtimeconfig.dev.json
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\bin\Debug\net5.0\modul3_1302204090.dll
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\bin\Debug\net5.0\modul3_1302204090.pdb
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\obj\Debug\net5.0\modul3_1302204090.csproj.AssemblyReference.cache
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\obj\Debug\net5.0\modul3_1302204090.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\obj\Debug\net5.0\modul3_1302204090.AssemblyInfoInputs.cache
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\obj\Debug\net5.0\modul3_1302204090.AssemblyInfo.cs
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\obj\Debug\net5.0\modul3_1302204090.csproj.CoreCompileInputs.cache
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\obj\Debug\net5.0\modul3_1302204090.dll
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\obj\Debug\net5.0\refint\modul3_1302204090.dll
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\obj\Debug\net5.0\modul3_1302204090.pdb
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\obj\Debug\net5.0\modul3_1302204090.genruntimeconfig.cache
+C:\Users\Fathan\source\repos\modul3_1302204090\modul3_1302204090\obj\Debug\net5.0\ref\modul3_1302204090.dll

@@ -9,12 +9,6 @@ namespace modul3_1302204090
 	internal class KodeBuah
 	{
 
-		public static KodeBuah[] JenisBuah = new KodeBuah[]
-		{
-			Apel, Aprikot, Alpukat, Pisang, Paprika, Blackberry,
-			Ceri, Kelapa, Jagung, Kurma, Durian, Anggur, Melon, Semangka
-		};
-
 		public static KodeBuah Apel = new KodeBuah("Apel", "A000");
 		public static KodeBuah Aprikot = new KodeBuah("Aprikot", "B000");
 		public static KodeBuah Alpukat = new KodeBuah("Alpukat", "C000");
@@ -29,6 +23,12 @@ namespace modul3_1302204090
 		public static KodeBuah Anggur = new KodeBuah("Anggur", "M000");
 		public static KodeBuah Melon = new KodeBuah("Melon", "N000");
 		public static KodeBuah Semangka = new KodeBuah("Semangka", "O000");
+
+		public static KodeBuah[] JenisBuah = new KodeBuah[]
+		{
+			Apel, Aprikot, Alpukat, Pisang, Paprika, Blackberry,
+			Ceri, Kelapa, Jagung, Kurma, Durian, Anggur, Melon, Semangka
+		};
 
 		private string buah;
 		private string kode;

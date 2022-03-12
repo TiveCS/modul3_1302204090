@@ -6,7 +6,9 @@ namespace modul3_1302204090
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			KodeBuah buah = KodeBuah.GetKodeBuah("C000");
+
+			Console.WriteLine(buah.GetBuah() + " dengan kode " + buah.GetKode());
 		}
 	}
 }
