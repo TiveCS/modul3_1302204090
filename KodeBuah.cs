@@ -9,6 +9,7 @@ namespace modul3_1302204090
 	internal class KodeBuah
 	{
 
+		// Membuat static objek KodeBuah
 		public static KodeBuah Apel = new KodeBuah("Apel", "A000");
 		public static KodeBuah Aprikot = new KodeBuah("Aprikot", "B000");
 		public static KodeBuah Alpukat = new KodeBuah("Alpukat", "C000");
@@ -24,6 +25,7 @@ namespace modul3_1302204090
 		public static KodeBuah Melon = new KodeBuah("Melon", "N000");
 		public static KodeBuah Semangka = new KodeBuah("Semangka", "O000");
 
+		// Menambahkan semua static objek kedalam array
 		public static KodeBuah[] JenisBuah = new KodeBuah[]
 		{
 			Apel, Aprikot, Alpukat, Pisang, Paprika, Blackberry,
@@ -41,8 +43,10 @@ namespace modul3_1302204090
 
 		public static KodeBuah GetKodeBuah(string kode)
 		{
+			// Loop tiap objek dari static field JenisBuah
 			foreach (var b in JenisBuah)
 			{
+				// Mendapatkan objek KodeBuah sesuai kode yang di input
 				if (b.GetKode() == kode) return b;
 			}
 			return null;
